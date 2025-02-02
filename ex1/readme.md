@@ -3,7 +3,7 @@ operating system lab
 #BASIC LINUX COMMANDS
 ##General command outputs
 ### bc command output
-![bc command output](bc.png)
+![bc command output](bc.pngl)
 ![bc manual command](manbc.png)
 ### cp command output
 ![cp command output](cp.png)
@@ -21,7 +21,6 @@ operating system lab
 ![mv command output](mv.png)
 ![mv manual command](manmv.png)
 ### rmdir command output
-![rmdir command output](rmdir.png)
 ![rmdir manual command](manrmdir.png)
 ### rm command output
 ![rm command output](rm.png)
@@ -72,9 +71,7 @@ operating system lab
 ### history command output
 ![history command output](history.png)
 ![history command manual](mhistory.png)
-![date hour command output](dateh.png)
 ### exit command output
-![exit command output](exit.png)
 ![exit command manual](mexit.png)
 
 
