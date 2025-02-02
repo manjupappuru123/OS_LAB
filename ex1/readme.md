@@ -16,7 +16,7 @@ operating system lab
 ![cat manual command](mancat.png)
 ### echo command output
 ![echo command output](echotxt.png)
-![echo manual command](manecho.png)
+![echo manual command](echohome.png)
 ### mv command output
 ![mv command output](mv.png)
 ![mv manual command](manmv.png)
