@@ -8,6 +8,7 @@ operating system lab
 ### cp command output
 ![cp command output](cp.png)
 ![cp manual command](mancp.png)
+![cpiwarning command](cpiwarning.png)
 ### date command output
 ![date command output](date.png)
 ![date manual command](mandate.png)
