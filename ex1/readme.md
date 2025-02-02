@@ -65,9 +65,7 @@ operating system lab
 ### date command output
 ![date command output](date.png)
 ![date day command output](date1.png)
-![date time command output](date2.png)
-![date year command output](date3.png)
-![date hour command output](date4.png)
+
 ### history command output
 ![history command output](history.png)
 ![history command manual](mhistory.png)
