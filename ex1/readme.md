@@ -54,3 +54,5 @@ operating system lab
 ![touch command output](touch.png)
 ### who am i command output
 ![who am i command output](whoami.png)
+### date command output
+![date command output](date4.png)
