@@ -3,7 +3,7 @@ operating system lab
 #BASIC LINUX COMMANDS
 ##General command outputs
 ### bc command output
-![bc command output](bc.pngl)
+![bc command output](bc.png)
 ![bc manual command](manbc.png)
 ### cp command output
 ![cp command output](cp.png)
@@ -32,7 +32,6 @@ operating system lab
 ![who command output](who.png)
 ![who manual command](manwho.png)
 ### uname command output
-![unamer command output](unamer.png)
 ![unamen command output](unamen.png)
 ![uname manual command](manuname.png)
 ### mkdir command output
