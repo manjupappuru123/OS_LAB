@@ -23,7 +23,7 @@ operating system lab
 ### rmdir command output
 ![rmdir manual command](manrmdir.png)
 ### rm command output
-![rm command output](rm.png)
+![rm command output](rmr.png)
 ![rm manual command](manrm.png)
 ### tty command output
 ![tty command output](tty.png)
